@@ -1,0 +1,60 @@
+_repo: Stories-by-Foreign-Authors--Polish-Greek-Belgian-Hungarian_5659
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Mor
+    - Jokai, Maurus
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+  - agent_name: Vikelas, Demetrios
+    aliases:
+    - Bikelas, Demetrios
+    - Βικέλας, Δημήτριος
+    - Bikelas, Demetrius
+    birthdate: 1835
+    deathdate: 1908
+    gutenberg_agent_id: '6012'
+    url: http://www.gutenberg.org/2009/agents/6012
+    wikipedia: http://en.wikipedia.org/wiki/Demetrius_Vikelas
+  - agent_name: Lemonnier, Camille
+    alias: Lemonnier, Antoine Louis Camille
+    birthdate: 1844
+    deathdate: 1913
+    gutenberg_agent_id: '6011'
+    url: http://www.gutenberg.org/2009/agents/6011
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Lemonnier
+  - agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+  - agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories -- Translations into English'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Sienkiewicz, H. The light-house keeper of Aspinwall -- Bikelas, D.
+  The plain sister -- Maeterlinck, M. The massacre of the innocents -- Lemonnier,
+  C. Saint Nicholas Eve -- Jokai, M. In love with the Czarina.
+title: 'Stories by Foreign Authors: Polish, Greek, Belgian, Hungarian'
+url: http://www.gutenberg.org/ebooks/5659
